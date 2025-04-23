@@ -1,11 +1,11 @@
 :root{
-    --color-fundo-header: #0044cc;
-    --color-texto:#ffffff;
+    --cor-fundo-header: #0044cc;
+    --cor-texto:#ffffff;
 }
 
 header{
-    background-color: var(--color-fundo-header);
-color:var(--color-texto)
+    background-color: var(--cor-fundo-header);
+color:var(--cor-texto)
 padding: 20px;
 }
 
